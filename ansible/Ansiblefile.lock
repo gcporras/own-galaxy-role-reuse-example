@@ -1,0 +1,10 @@
+GIT
+  remote: git@gitlab.local:my-own-galaxy/ansible-role-hello-devops-montreal.git
+  ref: master
+  sha: 47189b5b75162845265325ecbd9f1299441b93ee
+  specs:
+    my-own-galaxy.hello-devops-mtl (1.0.0)
+
+DEPENDENCIES
+  my-own-galaxy.hello-devops-mtl (= 1.0.0)
+

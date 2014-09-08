@@ -1,0 +1,6 @@
+#!/usr/bin/env ruby
+#^syntax detection
+
+role "my-own-galaxy.hello-devops-mtl",
+  "1.0.0",
+  git: "git@gitlab.local:my-own-galaxy/ansible-role-hello-devops-montreal.git"
