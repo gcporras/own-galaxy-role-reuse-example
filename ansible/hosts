@@ -1,0 +1,4 @@
+# file: hosts_inventory
+
+[local-dev]
+localhost ansible_connection=local
