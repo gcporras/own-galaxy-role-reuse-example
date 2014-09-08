@@ -1,0 +1,5 @@
+---
+# file: site.yml
+- hosts: local-dev
+  roles:
+     - { role: my-own-galaxy.hello-devops-mtl }
