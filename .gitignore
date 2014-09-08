@@ -12,5 +12,3 @@
 atlassian-ide-plugin.xml
 ansible/librarian_roles/
 ansible/tmp/
-vagrantconfig_local.yml
-xunit_test_results.xml
