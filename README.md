@@ -7,7 +7,7 @@ from a private [Gitlab](https://about.gitlab.com) repository.
 Used for
 [DevOps Montreal](http://www.devopsmtl.com) Get Back to Work edition - September 2014.
 
-Presentation Title:  Create your Orchestration Galaxy With Ansible
+Presentation Title:  [Create your Orchestration Galaxy With Ansible](https://speakerdeck.com/gerardocepeda/create-your-orchestration-galaxy-with-ansible)
 
 ## Instructions:
 
