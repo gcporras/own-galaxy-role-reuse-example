@@ -9,4 +9,25 @@ Used for
 
 Presentation Title:  Create your Orchestration Galaxy With Ansible
 
+## Instructions:
+
+Install librarian-ansible (bundler will install librarian-ansible - Defined in Gemfile):
+
+``` shell
+> bundle install
+```
+
+Install external roles ([own-galaxy-gitlab-server](https://github.com/gcporras/own-galaxy-gitlab-server) must be running)
+
+``` shell
+> cd ansible
+> librarian-ansible install
+```
+
+Execute the ansible playbook 
+
+```shell
+> cd ..
+> ansible-playbook ansible/site.yml -i ansible/hosts
+```
 
